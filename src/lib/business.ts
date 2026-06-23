@@ -96,7 +96,7 @@ export const business = {
       note: "Ring 076-565 75 50.",
     },
   ],
-  logoImage: null as string | null,
+  logoImage: "/images/logo.jpg" as string | null,
   heroImage: "/images/hero.jpg",
   aboutImage: "/images/gallery-1.jpg",
   gallery: [
